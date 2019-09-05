@@ -1312,7 +1312,7 @@
             "version": "dev-master",
             "dist": {
                 "type": "path",
-                "url": "/Users/tomtiddler/Code/php-code/laravel/packages/nletech/jiyun-api",
+                "url": "/var/www/html/laravel/packages/nletech/jiyun-api",
                 "reference": "8b88fc939f90f1c0708935e5106cce4ee42d1559"
             },
             "require": {
