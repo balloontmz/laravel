@@ -63,7 +63,7 @@
     "repositories": {
         "nletech": {
             "type": "path",
-            "url": "/Users/tomtiddler/Code/php-code/laravel/packages/nletech/jiyun-api"
+            "url": "/var/www/html/laravel/packages/nletech/jiyun-api"
         }
     }
 }
