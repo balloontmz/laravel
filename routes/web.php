@@ -13,5 +13,6 @@
 
 Route::get('/', function () {
     // return formatRet(1, '111');
-    app('taxi')->printRunning();
+    // app('taxi')->printRunning();
+    dd(1);
 });
